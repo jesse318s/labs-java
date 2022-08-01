@@ -1,1 +1,1 @@
-# projects-java
+# practice-projects-java
