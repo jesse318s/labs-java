@@ -1,1 +1,1 @@
-# practice-projects-java
+# labs-java
